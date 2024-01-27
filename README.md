@@ -9,6 +9,11 @@ In order to complete the project I used the following sources:
 - For the basic chat part: https://github.com/gyawaliamit7/MultiClientSocket
 - For the encryption part: https://reintech.io/blog/java-cryptography-encrypting-decrypting-data-tutorial
 - To convert string to SecretKey: https://www.baeldung.com/java-secret-key-to-string
+
+# Video
+If you want to see how it works and looks like you can go to the following video:
+https://www.youtube.com/watch?v=8PVfMtkUwgI&t=8s
+
 # FAQ
 ## How to use the code
 Each folder (server and client) has a main file, called either ServerMain or ClientMain. To execute each main, you will need the files in that same folder.
